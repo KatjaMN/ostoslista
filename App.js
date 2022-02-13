@@ -1,10 +1,15 @@
 
-import ShoppingList from './components/ShoppingList';
+//import ShoppingList from './components/ShoppingList';
+import ShoppingListSQL from './components/ShoppingListSQL';
 
 export default function App() {
   return (
-   <ShoppingList />
+   <ShoppingListSQL />
   );
+
+  //<ShoppingList />
+
 };
+
 
 
